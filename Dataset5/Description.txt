@@ -1,0 +1,6 @@
+GDP total, yearly growth:Based on gapminder's GDP per capita, PPP
+population:Total population
+Income per person (GDP/capita, PPP$ inflation-adjusted):Gross domestic product per person adjusted for differences in purchasing power (in international dollars, fixed 2017 prices, PPP based on 2017 ICP).
+Enrolment in primary, secondary and tertiary education levels
+Labour force participation and unemployment
+Public expenditure on education
